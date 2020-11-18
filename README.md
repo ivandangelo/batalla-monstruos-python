@@ -44,5 +44,5 @@ __Raiz__
 * TestPersonaje-- Tests de la clase Personaje
 * TestTipologia-- Tests de la clase Tipologia
 
-##Conclusiones:
+## Conclusiones:
 Como ya teniamos el proyecto en Java y no hacía falta pensar la lógica, nos facilitó familiarizarnos con la sintaxis de Python y con las ventajas que ésta trae con respecto a Java, como por ejemplo, los with open. Otra clara ventaja es la posibilidad de acceder a los atributos de una clase desde afuera de la misma, ya que nos ayudó a comprimir el código y no hace falta realizar getters ni setters. En cuanto a la persistencia, pudimos agregarle nueva funcionalidad al juego sin requerir de mucho esfuerzo gracias a la facilidad de poder importar nativamente pickle en Python y su simple sintaxis.
